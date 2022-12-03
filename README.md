@@ -28,7 +28,7 @@ Main_program_empirical_withinstateflow49t5b_sci:  The code to generate parameter
 for the TSDPD model
 
 
-jplv7: file for functions used in the econometric toolbox for matlab, which includes the function to generate Bayesian 95% confidence interval (written by James P. LeSage)
+jplv7: files for functions used in the econometric toolbox for matlab, which includes the function to generate Bayesian 95% confidence interval (written by James P. LeSage)
 
 
 

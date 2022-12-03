@@ -15,7 +15,7 @@ Han, Xiaoyi (xiaoyihan@xmu.edu.cn)
 In this simulation code, we produce parameter estimates for the Threshold SDPD model with formation equations for vaccination,
  as well as within and cross state flow.
 
-To implement the Bayesian 95% confidence interval, we include a function 'hpdi' provied by James P. LeSage in the file named ``jplv7'', 
+To implement the Bayesian 95% confidence interval, we include a function 'hpdi' provied by James P. LeSage in the file named 'jplv7', 
 which can be downloaded  from http://www.spatial-econometrics.com/
 
 We also include the data, as well as the cross state travel flow in the year 2019 and 2021 used in the empirical study.
